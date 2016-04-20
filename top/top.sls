@@ -1,0 +1,7 @@
+
+base:
+  '*':
+    - locale
+    - essentials
+    - users
+
